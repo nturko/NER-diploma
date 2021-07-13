@@ -1,4 +1,4 @@
 # NER-diploma
 
-NER-diploma project
-Python + streamlit + MongoDB
+\nNER-diploma project
+\nPython + streamlit + MongoDB
